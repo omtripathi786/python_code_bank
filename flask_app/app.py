@@ -34,11 +34,13 @@ def create_store():
 
 @app.route('/store/<string:name>')
 def get_store(name):
-    for store in stores:
-        if store['name'] == name:
-            return jsonify(store)
-    else:
-        return jsonify({'Error:': 'store not found'})
+    sdk = getsdk()
+    with sdk.trace_custom_service('my_fancy_transaction_new', 'MyFancyService_new'):
+        for store in stores:
+            if store['name'] == name:
+                return jsonify(store)
+        else:
+            return jsonify({'Error:': 'store not found'})
 
 
 @app.route('/stores/')

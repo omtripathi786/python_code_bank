@@ -1,0 +1,139 @@
+id,talk_time,talk_charge,sms,sms_charge,total_charge,plan,Outliers
+2000,41,2052,986,197.2,2270.2,,"[ {'col':'plan','reco':''}]"
+2001,,4903,63,12.6,4926.6,PlanA,"[ {'col':'talk_time','reco':''}]"
+2002,44,1325,521,26.05,1388.05,,"[ {'col':'plan','reco':''}]"
+2003,,991,838,41.9,1047.9,PlanB,"[ {'col':'talk_time','reco':''}]"
+2004,89,5345,206,61.8,5418.8,,"[ {'col':'plan','reco':''}]"
+2005,,2225,781,234.3,2494.3,PlanC,"[ {'col':'talk_time','reco':''}]"
+3010,41,2052,986,197.2,2270.2,,"[ {'col':'plan','reco':''}]"
+4010,44,1325,521,26.05,1388.05,,"[ {'col':'plan','reco':''}]"
+5010,89,5345,206,61.8,5418.8,,"[ {'col':'plan','reco':''}]"
+7000,89,5345,206,,5418.8,PlanC,"[ {'col':'sms_charge','reco':''}]"
+7001,57,,994,198.8,3091.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7002,79,,658,131.6,4096.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7003,31,,33,6.6,1576.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7004,78,,939,187.8,4119.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7005,93,,441,88.2,4755.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7006,26,,372,74.4,1383.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7007,80,,199,39.8,4069.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7008,45,,914,182.8,2479.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7009,49,,430,86,2553,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7010,18,,1000,200,1133,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7011,30,,643,128.6,1662.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7012,2,,287,57.4,165.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7013,88,,883,176.6,4586.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7014,53,,108,21.6,2693.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7015,87,,433,86.6,4455.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7016,22,,552,110.4,1215.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7017,33,,582,116.4,1780.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7018,54,,272,54.4,2788.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7019,6,,892,178.4,493.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7020,9,,763,152.6,606.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7021,29,,886,177.2,1649.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7022,62,,495,99,3223,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7023,55,,520,104,2867,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7024,77,,458,91.6,3963.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7025,22,,970,194,1318,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7026,38,,560,112,2025,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7027,88,,887,177.4,4586.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7028,93,,730,146,4824,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7029,82,,462,92.4,4221.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7030,41,,955,191,2275,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7031,77,,858,171.6,4028.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7032,5,,340,68,346,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7033,56,,272,54.4,2903.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7034,6,,577,115.4,445.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7035,97,,602,120.4,4980.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7036,37,,245,49,1949,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7037,12,,690,138,777,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7038,98,,474,94.8,5014.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7039,57,,801,160.2,3026.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7040,5,,638,127.6,391.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7041,8,,163,32.6,448.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7042,33,,350,70,1735,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7043,45,,478,95.6,2356.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7044,76,,413,82.6,3909.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7045,23,,314,62.8,1243.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7046,44,,582,116.4,2347.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7047,15,,957,191.4,981.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7048,33,,583,116.6,1788.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7049,35,,886,177.2,1970.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7050,4,,631,126.2,345.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7051,97,,699,139.8,5012.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7052,78,,155,31,3986,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7053,73,,207,41.4,3704.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7054,19,,88,17.6,1003.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7055,51,,479,95.8,2679.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7056,32,,892,178.4,1814.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7057,17,,818,163.6,1056.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7058,15,,346,69.2,864.2,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7059,4,,677,135.4,347.4,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7060,74,,50,10,3759,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7061,67,,963,192.6,3546.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7062,14,,19,3.8,744.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7063,69,,163,32.6,3526.6,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
+7064,65,,534,106.8,3378.8,,"[ {'col':'plan','reco':''},
+{'col':'talk_charge','reco':''}]"
